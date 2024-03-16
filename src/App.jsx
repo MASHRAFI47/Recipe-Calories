@@ -3,6 +3,9 @@ import './App.css'
 import Navbar from './components/Navbar/Navbar';
 import SingleProduct from './components/SingleProduct/SingleProduct';
 
+import { ToastContainer, toast } from 'react-toastify';
+  import 'react-toastify/dist/ReactToastify.css';
+
 let i = 0 
 let current = 0
 
@@ -35,7 +38,7 @@ function App() {
       setCart(newCart)
     }
     else {
-      alert('already in cart')
+      toast("Item Already Added!")
     }
   }
 
@@ -88,6 +91,7 @@ function App() {
                   <h5>{item.preparing_time} min</h5>
                   <h5>{item.calories} calories</h5>
                   <button className='btn btn-sm btn-success' onClick={() => handlePreparing(item.id, item, item.preparing_time, item.calories)}>Preparing</button>
+                  <ToastContainer />
                 </div>
               </div>
             ))}
