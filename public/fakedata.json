@@ -1,0 +1,99 @@
+[
+    {
+        "recipeimage": "https://www.licious.in/blog/wp-content/uploads/2022/05/shutterstock_1587847900.jpg",
+        "id": 1,
+        "recipename": "Chicken Fry",
+        "shortdescription": "A flavorful stir-fry dish with tender chicken and assorted vegetables.",
+        "ingredients": [
+            "550 g chicken breast",
+            "120 ml soy sauce",
+            "400 g mushrooms",
+            "2 tbsp olive oil",
+            "1 red bell pepper (sliced)",
+            "1 yellow bell pepper (sliced)",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": 25,
+        "calories": 320
+    },
+    {
+        "recipeimage": "https://www.inspiredtaste.net/wp-content/uploads/2019/03/Spaghetti-with-Meat-Sauce-Recipe-1-1200.jpg",
+        "id": 2,
+        "recipename": "Spaghetti",
+        "shortdescription": "Classic Italian pasta dish with rich tomato-based meat sauce.",
+        "ingredients": [
+            "400 g spaghetti",
+            "500 ml tomato sauce",
+            "1 onion (chopped)",
+            "2 cloves garlic (minced)",
+            "1 celery stalk (chopped)",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": 40,
+        "calories": 450
+    },
+    {
+        "recipeimage": "https://www.thecookierookie.com/wp-content/uploads/2023/05/featured-grilled-salmon-recipe.jpg",
+        "id": 3,
+        "recipename": "Grilled Salmon",
+        "shortdescription": "Delicious grilled salmon fillets topped with a tangy lemon-herb sauce.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons (juiced and zested)",
+            "2 tbsp olive oil",
+            "2 cloves garlic (minced)",
+            "2 tbsp fresh parsley (chopped)",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": 20,
+        "calories": 300
+    },
+    {
+        "recipeimage": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/07/vegetable-curry-recipe.jpg",
+        "id": 4,
+        "recipename": "Vegetable Curry",
+        "shortdescription": "A fragrant and hearty curry filled with assorted vegetables and aromatic spices.",
+        "ingredients": [
+            "2 potatoes (cubed)",
+            "1 eggplant (cubed)",
+            "1 red bell pepper (sliced)",
+            "1 onion (chopped)",
+            "200 g green beans (trimmed)",
+            "2 tbsp curry powder",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": 35,
+        "calories": 280
+    },
+    {
+        "recipeimage": "https://cdn.loveandlemons.com/wp-content/uploads/2021/04/green-salad.jpg",
+        "id": 5,
+        "recipename": "Caesar Salad",
+        "shortdescription": "A classic salad featuring crisp romaine lettuce, Parmesan cheese, croutons, and a creamy Caesar dressing.",
+        "ingredients": [
+            "1 head romaine lettuce (chopped)",
+            "1 cup croutons",
+            "1/2 cup grated Parmesan cheese",
+            "1/4 cup Caesar dressing",
+            "1 lemon (juiced)",
+            "2 tbsp olive oil"
+        ],
+        "preparing_time": 15,
+        "calories": 200
+    },
+    {
+        "recipeimage": "https://scientificallysweet.com/wp-content/uploads/2020/09/IMG_4087-feature-2.jpg",
+        "id": 6,
+        "recipename": "Chocolate Cake",
+        "shortdescription": "Indulgent chocolate cake with a rich and moist texture, perfect for satisfying sweet cravings.",
+        "ingredients": [
+            "1 and 3/4 cups all-purpose flour",
+            "3/4 cup unsweetened cocoa powder",
+            "2 cups granulated sugar",
+            "2 large eggs",
+            "2 tsp vanilla extract"
+        ],
+        "preparing_time": 50,
+        "calories": 380
+    }
+]
