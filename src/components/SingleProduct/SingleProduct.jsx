@@ -9,7 +9,7 @@ const SingleProduct = ({ item, handleCook }) => {
     return (
         <div className='mt-4 md:mt-10'>
             <div className="card bg-base-100 shadow-xl">
-                <figure><img src={recipeimage} alt="Shoes" className='w-full md:w-[25rem] h-[20rem]' /></figure>
+                <figure><img src={recipeimage} alt="Shoes" className='w-full md:w-[25rem] h-[20rem] rounded-xl' /></figure>
                 <div className="card-body">
                     <h2 className="card-title">{item.recipename}</h2>
                     <p className='text-[#878787]'>{item.shortdescription}</p>
